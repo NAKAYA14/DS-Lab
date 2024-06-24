@@ -11,3 +11,4 @@ matplotlib
 seaborn
 kedro
 metaflow
+luigi
